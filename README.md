@@ -4,8 +4,15 @@ openvibes-osc
 openvibe python box to send data in OSC(Open Sound Control)
 
 This script send OSC packet from openvibes signal.                                                                                             
-It work with Linux and Windows version of openvibes.                                                                                           
-                                                                                                                                               
+It work with Linux and Windows version of openvibes.
+
+This script allow Openvibes to communicate with software like PureData, Max/MSP
+
+See:
+Openvibes : http://openvibe.inria.fr (Software for Brain Computer Interfaces and Real Time Neurosciences)
+PureData: http://puredata.info/
+Max/MSP: http://cycling74.com/products/max/
+
 Dep:                                                                                                                      
 
 1.Numpy
