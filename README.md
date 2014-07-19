@@ -9,8 +9,11 @@ It work with Linux and Windows version of openvibes.
 This script allow Openvibes to communicate with software like PureData, Max/MSP
 
 See:
+
 Openvibes : http://openvibe.inria.fr (Software for Brain Computer Interfaces and Real Time Neurosciences)
+
 PureData: http://puredata.info/
+
 Max/MSP: http://cycling74.com/products/max/
 
 Dep:                                                                                                                      
