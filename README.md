@@ -6,8 +6,16 @@ openvibe python box to send data in OSC(Open Sound Control)
 This script send OSC packet from openvibes signal.                                                                                             
 It work with Linux and Windows version of openvibes.                                                                                           
                                                                                                                                                
-Dep:                                                                                                                                           
-you only need to install simpleOSC, modules can be found here:                                                                                 
+Dep:                                                                                                                      
+
+1.Numpy
+
+Install numpy http://sourceforge.net/projects/numpy/files/
+
+
+2.simpleOSC
+
+You need to install simpleOSC, modules can be found here:                                                                                 
  http://opensoundcontrol.org/implementation/python-simple-osc                                                                                  
  http://www.ixi-audio.net/content/body_backyard_python.html                                                                                    
                                                                                                                                                
